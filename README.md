@@ -50,5 +50,5 @@ Copy text for quick sharing.
 
 Download as a file.
 
-Clear the text area.
-![image alt](https://github.com/abhijeet-saxena07/speech-to-text-converter/blob/7be77aaa8a2080bcd577895fd0975a3c89854ef7/index.html)
+Snapshot:-
+![image alt](https://github.com/abhijeet-saxena07/speech-to-text-converter/blob/84455c24ba925387346f00fd8d34aedb39fc3906/t1.jpg)

@@ -3,7 +3,7 @@ A web-based tool that transcribes spoken words into text using your device's mic
 
 ✨ Features
 🎙️ Real-Time Transcription
-
+ 
 Convert spoken words to text instantly with high accuracy.
 
 🌍 Multi-Language Support
